@@ -1845,7 +1845,7 @@
     "source": "bvnghean.vn",
     "category": "Thông Báo",
     "category_url": "https://bvnghean.vn/category/tin-tuc/thong-bao/",
-    "scraped_at": "2026-06-21",
+    "scraped_at": "2026-06-22",
     "posts": [
       {
         "id": 1,
@@ -2242,10 +2242,31 @@
     "source": "bvnghean.vn",
     "category": "Thông tin đấu thầu",
     "category_url": "https://bvnghean.vn/category/thong-tin-dau-thau/",
-    "scraped_at": "2026-06-21",
+    "scraped_at": "2026-06-22",
     "posts": [
       {
         "id": 1,
+        "page": 1,
+        "type": "Thông tin đấu thầu",
+        "title": "2333/TM-BV Thư mời chào giá V/v Cung cấp máy in laser đen trắng",
+        "url": "https://bvnghean.vn/2333-tm-bv-thu-moi-chao-gia-v-v-cung-cap-may-in-laser-den-trang/",
+        "published_at": "17:21 19/06/2026",
+        "thumbnail": "https://bvnghean.vn/wp-content/uploads/Chao-gia-CNTT.png",
+        "excerpt": "Tải về YCBG: Tải về ﻿﻿﻿﻿",
+        "detail": {
+          "content": "Tải về YCBG:\nTải về\n</span>",
+          "images": [],
+          "attachments": [
+            {
+              "label": "Tải về",
+              "url": "https://bvnghean.vn/wp-content/uploads/1_tb_moi_bao_gia_may_in_laser_20260619052837368_Signed.pdf"
+            }
+          ],
+          "meta": {}
+        }
+      },
+      {
+        "id": 2,
         "page": 1,
         "type": "Thông tin đấu thầu",
         "title": "2172/TM-BV Thư mời chào giá Thuê dịch vụ CNTT “Hệ thống Quản lý văn bàn và điều hành Bệnh viện”",
@@ -2266,7 +2287,7 @@
         }
       },
       {
-        "id": 2,
+        "id": 3,
         "page": 1,
         "type": "Thông tin đấu thầu",
         "title": "2155/TM-BV về việc Yêu cầu báo giá Nội thất văn phòng phục vụ Tổ Công tác xã hội",
@@ -2287,7 +2308,7 @@
         }
       },
       {
-        "id": 3,
+        "id": 4,
         "page": 1,
         "type": "Thông tin đấu thầu",
         "title": "2141/TM-BV: V/v: Mua sắm máy điều hòa không khí",
@@ -2308,7 +2329,7 @@
         }
       },
       {
-        "id": 4,
+        "id": 5,
         "page": 1,
         "type": "Thông tin đấu thầu",
         "title": "2056/TM-CNTT V/v mua Màn hình hiển thị mã QR động",
@@ -2329,7 +2350,7 @@
         }
       },
       {
-        "id": 5,
+        "id": 6,
         "page": 1,
         "type": "Thông tin đấu thầu",
         "title": "2012/TM-BV Yêu cầu báo giá cung cấp dịch vụ giám định, đánh giá tình trạng tài sản thiết bị hư hỏng tại bệnh viện",
@@ -2354,7 +2375,7 @@
         }
       },
       {
-        "id": 6,
+        "id": 7,
         "page": 1,
         "type": "Thông tin đấu thầu",
         "title": "1877/TM-BV Yêu cầu báo giá cung cấp và lắp đặt điều hoà",
@@ -2375,7 +2396,7 @@
         }
       },
       {
-        "id": 7,
+        "id": 8,
         "page": 1,
         "type": "Thông tin đấu thầu",
         "title": "1815/TM-BV V/v: Yêu cầu báo giá dịch vụ nạo vét mương thoát nước mặ",
@@ -2396,7 +2417,7 @@
         }
       },
       {
-        "id": 8,
+        "id": 9,
         "page": 1,
         "type": "Thông tin đấu thầu",
         "title": "1747/TM-BV ngày 07/5/2026 Yêu cầu báo giá sửa chữa trần hành lang khoa Ngoại thận – Tiết niệu, tầng 2, nhà A1",
@@ -2417,7 +2438,7 @@
         }
       },
       {
-        "id": 9,
+        "id": 10,
         "page": 1,
         "type": "Thông tin đấu thầu",
         "title": "1746/TM-BV ngày 07/5/2026 Yêu cầu báo giá sửa chữa hội trường số 3, tầng 1, ĐN 1, nhà A1",
@@ -2438,8 +2459,8 @@
         }
       },
       {
-        "id": 10,
-        "page": 1,
+        "id": 11,
+        "page": 2,
         "type": "Thông tin đấu thầu",
         "title": "1698/TM-BV: Yêu cầu báo giá dịch vụ hội trường, ăn uống và phòng nghỉ",
         "url": "https://bvnghean.vn/1698-tm-bv-yeu-cau-bao-gia-dich-vu-hoi-truong-an-uong-va-phong-nghi/",
@@ -2459,7 +2480,7 @@
         }
       },
       {
-        "id": 11,
+        "id": 12,
         "page": 2,
         "type": "Thông tin đấu thầu",
         "title": "1759/TM-BV: Yêu cầu báo giá thi công trần nhôm vệ sinh",
@@ -2480,7 +2501,7 @@
         }
       },
       {
-        "id": 12,
+        "id": 13,
         "page": 2,
         "type": "Thông tin đấu thầu",
         "title": "1744/TM-ĐD: Yêu cầu báo giá cung cấp dịch vụ tư vấn đấu thầu",
@@ -2505,7 +2526,7 @@
         }
       },
       {
-        "id": 13,
+        "id": 14,
         "page": 2,
         "type": "Thông tin đấu thầu",
         "title": "1763/TM-CNTT Thư mời chào giá về việc muc Micro",
@@ -2526,7 +2547,7 @@
         }
       },
       {
-        "id": 14,
+        "id": 15,
         "page": 2,
         "type": "Thông tin đấu thầu",
         "title": "1762/TM-CNTT Thư mời chào giá về việc mua Máy tính xách tay",
@@ -2547,7 +2568,7 @@
         }
       },
       {
-        "id": 15,
+        "id": 16,
         "page": 2,
         "type": "Thông tin đấu thầu",
         "title": "Thư mời yêu cầu báo giá cung cấp, thi công băng rôn Hội nghị",
@@ -2568,7 +2589,7 @@
         }
       },
       {
-        "id": 16,
+        "id": 17,
         "page": 2,
         "type": "Thông tin đấu thầu",
         "title": "Thư mời yêu cầu báo giá cung cấp, thi công ấn phẩm truyền thông",
@@ -2589,7 +2610,7 @@
         }
       },
       {
-        "id": 17,
+        "id": 18,
         "page": 2,
         "type": "Thông tin đấu thầu",
         "title": "1679/TM-BV: Yêu cầu báo giá thẩm định giá hàng hoá thanh lý",
@@ -2610,7 +2631,7 @@
         }
       },
       {
-        "id": 18,
+        "id": 19,
         "page": 2,
         "type": "Thông tin đấu thầu",
         "title": "1667/TM-BV Yêu cầu báo giá thẩm định giá mặt bằng trông giữ xe ô tô tại BVHNĐKNA",
@@ -2631,7 +2652,7 @@
         }
       },
       {
-        "id": 19,
+        "id": 20,
         "page": 2,
         "type": "Thông tin đấu thầu",
         "title": "1656/TM-BV về việc Yêu cầu báo giá nội thất văn phòng phục vụ Hội nghị KH PT Gan mật Tụy lần thứ 1",
@@ -2650,27 +2671,6 @@
           ],
           "meta": {}
         }
-      },
-      {
-        "id": 20,
-        "page": 2,
-        "type": "Thông tin đấu thầu",
-        "title": "1652/TM-CNTT Thư mời chào giá v/v cung cấp máy in màu",
-        "url": "https://bvnghean.vn/1652-tm-cntt-thu-moi-chao-gia-v-v-cung-cap-may-in-mau/",
-        "published_at": "11:05 28/04/2026",
-        "thumbnail": "https://bvnghean.vn/wp-content/uploads/Chao-gia-chung.png",
-        "excerpt": "Tải về YCBG: Tải về ﻿﻿﻿",
-        "detail": {
-          "content": "Tải về YCBG:\nTải về\n<span data-mce-=\"\" type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0 </div> \n </div> \n <div class=\"col-3 px-15\"> \n <div class=\"the-title\"><span>Tin nổi bật</span></div> \n <a class=\"post-item color-hover-second mb-20\" href=\"https://bvnghean.vn/benh-vien-huu-nghi-da-khoa-nghe-an-ky-ket-hop-tac-chuyen-mon-giai-doan-2026-2030-voi-benh-vien-tinh-xieng-khoang-lao/\"> \n <div class=\"post-thumbnail\" style=\"background-image: url('https://bvnghean.vn/wp-content/uploads/b6b3f60b-63d0-458f-9f88-4dc6c12e0e07.jpg')\"></div> \n <div class=\"p-15\"> \n <p href=\"\" class=\"color-main color-hover-second post-title font-h6\">Bệnh viện Hữu nghị đa khoa Nghệ An ký kết hợp tác chuyên môn giai đoạn 2026 – 2030 với Bệnh viện tỉnh Xiêng khoàng (Lào)</p> \n </div> \n </a> \n \n \n <a class=\"post-item color-hover-second mb-20\" href=\"https://bvnghean.vn/le-ky-ket-thoa-thuan-hop-tac-chien-luoc-giua-so-khoa-hoc-cong-nghe-nghe-an-truong-dai-hoc-y-khoa-vinh-benh-vien-hndk-nghe-an/\"> \n <div class=\"post-thumbnail\" style=\"background-image: url('https://bvnghean.vn/wp-content/uploads/03b7f32f-7b76-4a7a-85fb-ae5fe7cce502-1.jpg')\"></div> \n <div class=\"p-15\"> \n <p href=\"\" class=\"color-main color-hover-second post-title font-h6\">LỄ KÝ KẾT THỎA THUẬN HỢP TÁC CHIẾN LƯỢC GIỮA SỞ KHOA HỌC CÔNG NGHỆ NGHỆ AN – TRƯỜNG ĐẠI HỌC Y KHOA VINH – BỆNH VIỆN HNĐK NGHỆ AN</p> \n </div> \n </a> \n \n \n <a class=\"post-item color-hover-second mb-20\" href=\"https://bvnghean.vn/benh-vien-huu-nghi-da-khoa-nghe-an-tiep-tuc-khang-dinh-vi-the-quoc-te-trong-nghien-cuu-khoa-hoc-va-hoi-nhap/\"> \n <div class=\"post-thumbnail\" style=\"background-image: url('https://bvnghean.vn/wp-content/uploads/712584404_122282961422034558_6135365921898956314_n.jpg')\"></div> \n <div class=\"p-15\"> \n <p href=\"\" class=\"color-main color-hover-second post-title font-h6\">Bệnh viện Hữu nghị đa khoa Nghệ An tiếp tục khẳng định vị thế quốc tế trong nghiên cứu khoa học và hội nhập </p> \n </div> \n </a> \n \n \n <a class=\"post-item color-hover-second mb-20\" href=\"https://bvnghean.vn/cong-bo-quyet-dinh-dieu-dong-bo-nhiem-giam-doc-benh-vien-huu-nghi-da-khoa-nghe-an/\"> \n <div class=\"post-thumbnail\" style=\"background-image: url('https://bvnghean.vn/wp-content/uploads/0866b824-754a-4887-95db-ca874bb2a4fa-scaled.jpg')\"></div> \n <div class=\"p-15\"> \n <p href=\"\" class=\"color-main color-hover-second post-title font-h6\">Công bố quyết định điều động, bổ nhiệm Giám đốc Bệnh viện Hữu nghị đa khoa Nghệ An</p> \n </div> \n </a> \n \n \n<figure class=\"wp-block-image size-full\"><img fetchpriority=\"high\" decoding=\"async\" width=\"2000\" height=\"2000\" src=\"https://bvnghean.vn/wp-content/uploads/Dat-lich-kham.png\" alt=\"\" class=\"wp-image-43326\" srcset=\"https://bvnghean.vn/wp-content/uploads/Dat-lich-kham.png 2000w, https://bvnghean.vn/wp-content/uploads/Dat-lich-kham-768x768.png 768w, https://bvnghean.vn/wp-content/uploads/Dat-lich-kham-1536x1536.png 1536w\" sizes=\"(max-width: 2000px) 100vw, 2000px\" /></figure>\n </div> \n </div> \n</div> \n<div class=\"footer-contact bg-main\">\n <div class=\"container row p-15\">\n <div class=\"col-4\">\n <div class=\"align-left\">\n <div class=\"bv-info\">\n <i class=\"la la-phone\"></i>\n <p>Điện thoại CSKH - Đặt lịch khám</p>\n <a href=\"\"><strong>19008082 - 0886.234.222</strong></a>\n </div> \n </div>\n </div>\n <div class=\"col-4\">\n <div class=\"align-center\">\n <div class=\"bv-info\">\n <i class=\"la la-envelope\"></i>\n <p>Email hỗ trợ</p>\n <a href=\"\"><strong>bvhndkna.info@gmail.com</strong></a> \n </div> \n \n </div> \n </div> \n <div class=\"col-4\">\n <div class=\"align-right\">\n <div class=\"bv-info\">\n <i class=\"la la-globe\"></i>\n <a>Website</p>\n <a href=\"https://bvnghean.vn\"><strong>https://bvnghean.vn</strong></a>\n </div>\n </div>\n </div>\n </div>\n</div>\n\n<div class=\"footer-main\">\n <div class=\"container px-15\">\n <div class=\"row\">\n <div class=\"col-8\">\n <div class=\"slogan color-second mb-20\">\n <img src=\"https://bvnghean.vn/wp-content/uploads/logo.png\" alt=\"logo\" width=\"90px\" class=\"inline-block mr-20\">\n <h5 class=\"inline-block m-0\"><em><strong>CHẤT LƯỢNG HÀNG ĐẦU - PHÁT TRIỂN CHUYÊN SÂU - NÂNG TẦM CAO MỚI</strong></em></h5>\n </div>\n <div class=\"row\">\n <div class=\"col-6 pr-20\">\n <div class=\"fb-page\" \n data-href=\"https://www.facebook.com/bvhndknghean\"\n data-width=\"500\" \n data-hide-cover=\"false\"\n data-adapt-container-width=\"true\"\n data-show-facepile=\"false\">\n </div>\n </div>\n <div class=\"col-6 pl-20\">\n <h6 class=\"color-main mb-0\">Địa chỉ</h6>\n <p class=\"mb-10\">Km5, Đại lộ Lê nin, phường Vinh Phú, tỉnh Nghệ An</p>\n\n <h6 class=\"color-main mb-0\">Điện thoại</h6>\n <p class=\"mb-10\">02383.844.528</p>\n\n <h6 class=\"color-main mb-0\">Email</h6>\n <p class=\"mb-10\">bvhndkna.info@gmail.com</p>\n\n <!-- <h6 class=\"color-main mb-0\">Đặt lịch khám</h6>\n <p class=\"mb-10\">19008082</p> -->\n \n <h6 class=\"color-main mb-0\">Điện thoại CSKH - Đặt lịch khám</h6>\n <p class=\"mb-10\">19008082 - 0886.234.222</p>\n\n <h6 class=\"color-main mb-0 hide-from-1200\">Thời gian làm việc: <strong> Khám bệnh: 7h-16h (Thứ 2-Thứ 6), 7h-12h (Sáng thứ 7), trừ nghỉ lễ ----- Tiếp nhận cấp cứu và điều trị nội trú 24/7, kể cả nghỉ lễ</strong></p>\n <!--code email hiện chưa sử dụng\n <h6 class=\"color-main mb-0\">Email hỗ trợ</h6>\n <p class=\"mb-10\">bvhndkna.info@gmail.com</p> -->\n \n\n </div>\n </div>\n </div>\n <div class=\"col-4\">\n </div>\n </div>\n </div>\n</div>\n<div class=\"copyright\">\n <div class=\"container\">\n <p>Copyright © 2026 <strong>BỆNH VIỆN HỮU NGHỊ ĐA KHOA NGHỆ AN</strong></p>\n </div>\n</div>\n<script src=\"https://sp.zalo.me/plugins/sdk.js\"></script>\n <script>\n window.onload = function() {\n var script = document.createElement(\"script\");\n script.src = \"https://sp.zalo.me/plugins/sdk.js\";\n script.onload = function() {\n window.ZaloChatWidget && window.ZaloChatWidget.init({\n url: \"https://zalo.me/2387411774969490459\",\n width: \"300\",\n bottom: \"20px\",\n right: \"20px\",\n color: \"blue\",\n size: \"large\"\n });\n };\n document.body.appendChild(script);\n };\n </script>\n\n<script type=\"speculationrules\">\n{\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/bvnghean/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]}\n</script>\n<script type=\"text/javascript\" src=\"https://bvnghean.vn/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.3\" id=\"jquery-effects-core-js\"></script>\n<script type=\"text/javascript\" src=\"https://bvnghean.vn/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.13.3\" id=\"jquery-effects-slide-js\"></script>\n<script type=\"text/javascript\" src=\"https://bvnghean.vn/wp-includes/js/jquery/ui/effect-highlight.min.js?ver=1.13.3\" id=\"jquery-effects-highlight-js\"></script>\n<script type=\"text/javascript\" src=\"https://bvnghean.vn/wp-includes/js/jquery/ui/effect-fold.min.js?ver=1.13.3\" id=\"jquery-effects-fold-js\"></script>\n<script type=\"text/javascript\" src=\"https://bvnghean.vn/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.13.3\" id=\"jquery-effects-blind-js\"></script>\n<script type=\"text/javascript\" id=\"bg-show-hide-script-js-extra\">\n/* <![CDATA[ */\nvar BG_SHCE_USE_EFFECTS = \"0\";\nvar BG_SHCE_TOGGLE_SPEED = \"400\";\nvar BG_SHCE_TOGGLE_OPTIONS = \"none\";\nvar BG_SHCE_TOGGLE_EFFECT = \"blind\";\n//# sourceURL=bg-show-hide-script-js-extra\n/* ]]> */\n</script>\n<script type=\"text/javascript\" src=\"https://bvnghean.vn/wp-content/plugins/show-hidecollapse-expand/assets/js/bg-show-hide.js?ver=6.9.1\" id=\"bg-show-hide-script-js\"></script>\n<script type=\"text/javascript\" src=\"https://code.jquery.com/ui/1.12.1/jquery-ui.js?ver=2.0\" id=\"jquery-ui-js\"></script>\n<script type=\"text/javascript\" src=\"https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js?ver=2.0\" id=\"bxslider-js\"></script>\n<script type=\"text/javascript\" src=\"https://bvnghean.vn/wp-content/themes/bvnghean/js/main.js?ver=2.1\" id=\"main-js\"></script>\n<script id=\"wp-emoji-settings\" type=\"application/json\">\n{\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://bvnghean.vn/wp-includes/js/wp-emoji-release.min.js?ver=6.9.1\"}}\n</script>\n<script type=\"module\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\nconst a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});\n//# sourceURL=https://bvnghean.vn/wp-includes/js/wp-emoji-loader.min.js\n/* ]]> */\n</script>\n</body>\n</html>",
-          "images": [],
-          "attachments": [
-            {
-              "label": "Tải về",
-              "url": "https://bvnghean.vn/wp-content/uploads/File-1-2.pdf"
-            }
-          ],
-          "meta": {}
-        }
       }
     ]
   },
@@ -2678,7 +2678,7 @@
     "source": "bvnghean.vn",
     "category": "Từ thiện",
     "category_url": "https://bvnghean.vn/category/tin-tuc/tu-thien/",
-    "scraped_at": "2026-06-21",
+    "scraped_at": "2026-06-22",
     "posts": [
       {
         "id": 1,
